@@ -83,6 +83,11 @@ int main()
 
 <img width="638" height="462" alt="image" src="https://github.com/user-attachments/assets/722f40f1-611e-4fff-b8de-0e355004f024" />
 
+Result:
+```
+Thus, a LED is interfaced and toggled with ARM LPC1768 Microprocessor.
+```
+
 
 
 
